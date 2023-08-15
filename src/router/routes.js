@@ -52,7 +52,7 @@ const routes = [
       {
         path: "/others/nits",
         name: "others.nits",
-        component: () => import("pages/areas/TemaArea.vue"),
+        component: () => import("pages/others/OthersNITS.vue"),
       },
       {
         path: "/others/srp",

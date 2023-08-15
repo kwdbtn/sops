@@ -12,14 +12,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0026 Techiman Substation/26 - TECHIMAN (Colour-2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0026 Techiman Substation/26 - TECHIMAN (Colour-2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0026 Techiman Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0026 Techiman Substation/TD-OP-0026 Techiman Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0026 Techiman Substation/TD-OP-0026 Techiman Substation.pdf'
             }
         ]
     },
@@ -33,14 +33,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0027 Sunyani Substation/27 - SUNYANI (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0027 Sunyani Substation/27 - SUNYANI (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0027 Sunyani Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0027 Sunyani Substation/TD-OP-0027 Sunyani Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0027 Sunyani Substation/TD-OP-0027 Sunyani Substation.pdf'
             }
         ]
     },
@@ -54,14 +54,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0043 Kenyasi Substation/43 - KENYASI(Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0043 Kenyasi Substation/43 - KENYASI(Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0043 Kenyasi Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0043 Kenyasi Substation/TD-OP-0043 Kenyasi Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0043 Kenyasi Substation/TD-OP-0043 Kenyasi Substation.pdf'
             }
         ]
     },
@@ -75,14 +75,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0054 Bui Substation/54 - BUI SUBSTATION + SOLAR PLANT(Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0054 Bui Substation/54 - BUI SUBSTATION + SOLAR PLANT(Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0054 Bui Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0054 Bui Substation/TD-OP-0054 Bui Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0054 Bui Substation/TD-OP-0054 Bui Substation.pdf'
             }
         ]
     },
@@ -96,14 +96,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0056 Kintampo 161kV Substation/56 - KINTAMPO SUBSTATION 161 (Colour-2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0056 Kintampo 161kV Substation/56 - KINTAMPO SUBSTATION 161 (Colour-2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0056 Kintampo 161kV Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0056 Kintampo 161kV Substation/TD-OP-0056 Kintampo 161kV Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0056 Kintampo 161kV Substation/TD-OP-0056 Kintampo 161kV Substation.pdf'
             }
         ]
     },
@@ -117,14 +117,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0056 Kintampo 330kV Substation/56 - KINTAMPO 161 kV and 330 kV(Colour-2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0056 Kintampo 330kV Substation/56 - KINTAMPO 161 kV and 330 kV(Colour-2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0056 Kintampo 330kV Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0056 Kintampo 330kV Substation/TD-OP-0056 Kintampo 330kV Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0056 Kintampo 330kV Substation/TD-OP-0056 Kintampo 330kV Substation.pdf'
             }
         ]
     },
@@ -138,14 +138,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0062 Mim Substation/62 -MIM (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0062 Mim Substation/62 -MIM (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0062 Mim Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0062 Mim Substation/TD-OP-0062 Mim Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0062 Mim Substation/TD-OP-0062 Mim Substation.pdf'
             }
         ]
     },
@@ -159,14 +159,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0063 Berekum Substation/63 - BEREKUM SUBSTATION(Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0063 Berekum Substation/63 - BEREKUM SUBSTATION(Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0063 Berekum Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Techiman Area/TD-OP-0063 Berekum Substation/TD-OP-0063 Berekum Substation.pdf'
+                url: 'dist/spa/Distribution/Techiman Area/TD-OP-0063 Berekum Substation/TD-OP-0063 Berekum Substation.pdf'
             }
         ]
     },

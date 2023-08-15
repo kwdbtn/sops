@@ -12,14 +12,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0005  Achimota Substation/5 - ACHIMOTA SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0005  Achimota Substation/5 - ACHIMOTA SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0005  Achimota Substation',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0005  Achimota Substation/TD-OP-0005  Achimota Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0005  Achimota Substation/TD-OP-0005  Achimota Substation.pdf'
             }
         ]
     },
@@ -33,14 +33,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0006 Winneba Substation/6 - Winneba 2021 (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0006 Winneba Substation/6 - Winneba 2021 (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0006 Winneba Substation',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0006 Winneba Substation/TD-OP-0006 Winneba Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0006 Winneba Substation/TD-OP-0006 Winneba Substation.pdf'
             }
         ]
     },
@@ -54,14 +54,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0037 Mallam (161kV) Substation/37 - MALLAM SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0037 Mallam (161kV) Substation/37 - MALLAM SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0037 Mallam (161kV) Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0037 Mallam (161kV) Substation/TD-OP-0037 Mallam (161kV) Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0037 Mallam (161kV) Substation/TD-OP-0037 Mallam (161kV) Substation.pdf'
             }
         ]
     },
@@ -75,14 +75,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0059 Accra East Substation/59 - ACCRA EAST SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0059 Accra East Substation/59 - ACCRA EAST SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0059 Accra East Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0059 Accra East Substation/TD-OP-0059 Accra East Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0059 Accra East Substation/TD-OP-0059 Accra East Substation.pdf'
             }
         ]
     },
@@ -96,14 +96,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0083 Accra Central Substation/83 - ACCRA CENTRAL  (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0083 Accra Central Substation/83 - ACCRA CENTRAL  (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0083 Accra Central Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0083 Accra Central Substation/TD-OP-0083 Accra Central Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0083 Accra Central Substation/TD-OP-0083 Accra Central Substation.pdf'
             }
         ]
     },
@@ -117,14 +117,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0086 Pokuase Substation/86- POKUASI SUBSTATION (Colour-2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0086 Pokuase Substation/86- POKUASI SUBSTATION (Colour-2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0086 Pokuase Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0086 Pokuase Substation/TD-OP-0086 Pokuase Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0086 Pokuase Substation/TD-OP-0086 Pokuase Substation.pdf'
             }
         ]
     },
@@ -138,14 +138,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0087 Kasoa Substation/87-KASOA 2022 SLD-Model.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0087 Kasoa Substation/87-KASOA 2022 SLD-Model.pdf'
             },
             {
                 label: 'TD-OP-0087 Kasoa Substation ',
                 header: 'child',
                 icon: 'picture_as_pdf',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Accra Area/TD-OP-0087 Kasoa Substation/TD-OP-0087 Kasoa Substation.pdf'
+                url: 'dist/spa/Distribution/Accra Area/TD-OP-0087 Kasoa Substation/TD-OP-0087 Kasoa Substation.pdf'
             }
         ]
     },

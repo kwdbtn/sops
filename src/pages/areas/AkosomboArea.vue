@@ -12,14 +12,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0001 Akosombo Substation/1 - AKOSOMBO SUBSTATION (Colour-2022-Model.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0001 Akosombo Substation/1 - AKOSOMBO SUBSTATION (Colour-2022-Model.pdf'
             },
             {
                 label: 'TD-OP-0001 Akosombo Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0001 Akosombo Substation/TD-OP-0001 Akosombo Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0001 Akosombo Substation/TD-OP-0001 Akosombo Substation.pdf'
             }
         ]
     },
@@ -33,14 +33,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0014 Nkawkaw Substation/14 - NKAWKAW (2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0014 Nkawkaw Substation/14 - NKAWKAW (2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0014 Nkawkaw Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0014 Nkawkaw Substation/TD-OP-0014 Nkawkaw Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0014 Nkawkaw Substation/TD-OP-0014 Nkawkaw Substation.pdf'
             }
         ]
     },
@@ -54,14 +54,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0015 Tafo Substation/15-TAFO SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0015 Tafo Substation/15-TAFO SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0015 Tafo Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0015 Tafo Substation/TD-OP-0015 Tafo Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0015 Tafo Substation/TD-OP-0015 Tafo Substation.pdf'
             }
         ]
     },
@@ -75,14 +75,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0016 Akwatia Substation/16 - AKWATIA SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0016 Akwatia Substation/16 - AKWATIA SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0016 Akwatia Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0016 Akwatia Substation/TD-OP-0016 Akwatia Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0016 Akwatia Substation/TD-OP-0016 Akwatia Substation.pdf'
             }
         ]
     },
@@ -96,14 +96,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0017 Old Kpong GS/17 - Old Kpong + New Feeders(COLORS-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0017 Old Kpong GS/17 - Old Kpong + New Feeders(COLORS-2022).pdf'
             },
             {
                 label: 'TD-OP-0017 Old Kpong GS ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0017 Old Kpong GS/TD-OP-0017 Kpong GS.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0017 Old Kpong GS/TD-OP-0017 Kpong GS.pdf'
             }
         ]
     },
@@ -117,14 +117,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0019 Kpong GS/19 - Kpong GS(Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0019 Kpong GS/19 - Kpong GS(Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0019 Kpong GS ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0019 Kpong GS/TD-OP-0019 Kpong GS Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0019 Kpong GS/TD-OP-0019 Kpong GS Substation.pdf'
             }
         ]
     },
@@ -138,14 +138,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0022 Aseipke Substation/22 - Asiekpe(Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0022 Aseipke Substation/22 - Asiekpe(Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0022 Aseipke Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0022 Aseipke Substation/TD-OP-0022 Aseipke Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0022 Aseipke Substation/TD-OP-0022 Aseipke Substation.pdf'
             }
         ]
     },
@@ -160,14 +160,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0023 Ho Substation/23-HO SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0023 Ho Substation/23-HO SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0023 Ho Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0023 Ho Substation/TD-OP-0023 Ho Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0023 Ho Substation/TD-OP-0023 Ho Substation.pdf'
             }
         ]
     },
@@ -181,14 +181,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0024 Kpeve Substation/24 - KPEVE (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0024 Kpeve Substation/24 - KPEVE (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0024 Kpeve Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0024 Kpeve Substation/TD-OP-0024 Kpeve Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0024 Kpeve Substation/TD-OP-0024 Kpeve Substation.pdf'
             }
         ]
     },
@@ -202,14 +202,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0025 Kpandu Substation/25 - KPANDU (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0025 Kpandu Substation/25 - KPANDU (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0025 Kpandu Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0025 Kpandu Substation/TD-OP-0025 Kpandu Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0025 Kpandu Substation/TD-OP-0025 Kpandu Substation.pdf'
             }
         ]
     },
@@ -223,14 +223,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0061 New Abirem Substation/61 - NEW ABIREM(2022)-Model.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0061 New Abirem Substation/61 - NEW ABIREM(2022)-Model.pdf'
             },
             {
                 label: 'TD-OP-0061 New Abirem Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0061 New Abirem Substation/TD-OP-0061 New Abirem Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0061 New Abirem Substation/TD-OP-0061 New Abirem Substation.pdf'
             }
         ]
     },
@@ -244,14 +244,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0070 Kedjebi Substation/70 - KADJEBI (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0070 Kedjebi Substation/70 - KADJEBI (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0070 Kedjebi Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Akosombo Area/TD-OP-0070 Kedjebi Substation/TD-OP-0070 Kedjebi Substation.pdf'
+                url: 'dist/spa/Distribution/Akosombo Area/TD-OP-0070 Kedjebi Substation/TD-OP-0070 Kedjebi Substation.pdf'
             }
         ]
     },

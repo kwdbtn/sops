@@ -12,7 +12,7 @@ const nodes = [
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Other Procedures/System Restoration/System Restoration Procedures_Fred_Frank_1.pdf'
+                url: 'dist/spa/Distribution/Other Procedures/System Restoration/System Restoration Procedures_July 12 (Without Synchrocheck).pdf'
             },
         ]
     },

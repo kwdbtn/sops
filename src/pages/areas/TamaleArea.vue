@@ -12,14 +12,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0028 Tamale Substation/28 - TAMALE  (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0028 Tamale Substation/28 - TAMALE  (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0028 Tamale Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0028 Tamale Substation/TD-OP-0028 Tamale Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0028 Tamale Substation/TD-OP-0028 Tamale Substation.pdf'
             }
         ]
     },
@@ -33,14 +33,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0035 Yendi Substation/35 - YENDI (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0035 Yendi Substation/35 - YENDI (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0035 Yendi Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0035 Yendi Substation/TD-OP-0035 Yendi Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0035 Yendi Substation/TD-OP-0035 Yendi Substation.pdf'
             }
         ]
     },
@@ -54,14 +54,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0038 Sawla Substation/38 - SAWLA SUBSTATION (Colour-2022-Model.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0038 Sawla Substation/38 - SAWLA SUBSTATION (Colour-2022-Model.pdf'
             },
             {
                 label: 'TD-OP-0038 Sawla Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0038 Sawla Substation/TD-OP-0038 Sawla Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0038 Sawla Substation/TD-OP-0038 Sawla Substation.pdf'
             }
         ]
     },
@@ -75,14 +75,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0055 Buipe Substation/55 - BUIPE (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0055 Buipe Substation/55 - BUIPE (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0055 Buipe Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0055 Buipe Substation/TD-OP-0055 Buipe Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0055 Buipe Substation/TD-OP-0055 Buipe Substation.pdf'
             }
         ]
     },
@@ -96,14 +96,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0068 Wa Substation/68 - WA (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0068 Wa Substation/68 - WA (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0068 Wa Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0068 Wa Substation/TD-OP-0068 Wa Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0068 Wa Substation/TD-OP-0068 Wa Substation.pdf'
             }
         ]
     },
@@ -117,14 +117,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0081 Adubiyili (161kV) Substation/81 - ADUBLIYILI SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0081 Adubiyili (161kV) Substation/81 - ADUBLIYILI SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0081 Adubiyili (161kV) Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0081 Adubiyili (161kV) Substation/TD-OP-0081 Adubiyili (161kV) Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0081 Adubiyili (161kV) Substation/TD-OP-0081 Adubiyili (161kV) Substation.pdf'
             }
         ]
     },
@@ -138,14 +138,14 @@ const nodes = [
                 header: 'child',
                 icon: 'image',
                 type: 'Operating Drawing',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0081 Adubiyili (330kV) Substation/81 - ADUBLIYILI SUBSTATION (Colour-2022).pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0081 Adubiyili (330kV) Substation/81 - ADUBLIYILI SUBSTATION (Colour-2022).pdf'
             },
             {
                 label: 'TD-OP-0081 Adubiyili (330kV) Substation ',
                 header: 'child',
                 icon: 'description',
                 type: 'Operating Procedure',
-                url: 'src/assets/Distribution/Tamale Area/TD-OP-0081 Adubiyili (330kV) Substation/TD-OP-0081 Adubiyili (330kV) Substation.pdf'
+                url: 'dist/spa/Distribution/Tamale Area/TD-OP-0081 Adubiyili (330kV) Substation/TD-OP-0081 Adubiyili (330kV) Substation.pdf'
             }
         ]
     },
