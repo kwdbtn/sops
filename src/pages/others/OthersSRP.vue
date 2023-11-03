@@ -3,7 +3,7 @@ import AreaDetail from 'src/components/AreaDetail.vue'
 
 const nodes = [
     {
-        label: 'System Restoration',
+        label: 'System Restoration Procedures',
         icon: 'folder',
         header: 'parent',
         children: [
@@ -20,5 +20,5 @@ const nodes = [
 </script>
 
 <template>
-    <area-detail area="System Restoration" :nodes="nodes" />
+    <area-detail area="System Restoration Procedures" :nodes="nodes" />
 </template>
